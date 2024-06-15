@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">AppParaHelados</string>
+    <string name="back_button">Regresar</string>
+    <string name="registros_title">Registros</string>
+    <string name="registro_Edit">Editar</string>
+
+    <string name="login_title">Login</string>
+    <string name="regresar">Regresar</string>
+
+
+    <string name="admin_title">Administardor</string>
+
+    <string name="registro_exitoso">Registro exitoso</string>
+    <string name="registrarse">Crea una cuenta</string>
+
+    <string name="principal_title">Heladeria Sammy</string>
+
+    <string name="topping_detail_title">Topping</string>
+
+    <string name="edit_topping_title">Editor heladeria</string>
+
+    <string name="topping_entry_title">Topping heladeria</string>
+
+    <string name="topping_name_req">Nombre</string>
+
+    <string name="topping_price_req">Precio :)</string>
+
+
+    <string name="vender">Vender</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="in_stock">%d en stock</string>
+
+
+    <string name="topping_nombre">Codigo</string>
+    <string name="topping_precio">Precio</string>
+    <string name="topping_cantidad">Cantidad</string>
+
+    <string name="no">No</string>
+    <string name="yes">Si</string>
+
+    <string name="delete_question">Deseas borrar?</string>
+
+    <string name="attention">Atencion</string>
+    <string name="ic_logout">Cerrar sesion</string>
+
+    <string name="save_action">Guardar</string>
+    <string name="required_fields">Necesitas llenar todos los datos</string>
+
+    <string name="topping">Toppings</string>
+
+    <string name="no_toppings">No hay topping actualmente</string>
+
+    <string name="topping_cantidad_req">Cantidad</string>
+
+    <string name="topping_editor">Editar</string>
+
+    <string name="helado_editor">Editar</string>
+    <string name="cantidad_editor">Cantidad</string>
+    <string name="helado_entry_title">heladitos sammy</string>
+    <string name="helado">Helado</string>
+
+    <string name="no_helados">No hay helados mi ciela</string>
+    <string name="helado_detail_title">heladeria sammy</string>
+    <string name="helado_nombre">nombre</string>
+    <string name="helado_cantidad">cantidad</string>
+    <string name="helado_precioBase">precio</string>
+    <string name="edit_helado_title">sammy heladero</string>
+    <string name="helado_name_req">nombre</string>
+    <string name="helado_sabor_req">sabor</string>
+    <string name="helado_descripcion_req">descripcion</string>
+    <string name="helado_precio_base_req">precio</string>
+    <string name="helado_cantidad_req">cantidad</string>
+    <string name="helado_clasico">helado clasico\n</string>
+
+
+</resources>
